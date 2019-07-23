@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Project_Admin_DbModel1StoreContainer" CdmEntityContainer="Project_Admin_DbEntities">
+    <EntitySetMapping Name="PickUpDropUp_Table">
+      <EntityTypeMapping TypeName="Project_Admin_DbModel1.PickUpDropUp_Table">
+        <MappingFragment StoreEntitySet="PickUpDropUp_Table">
+          <ScalarProperty Name="BusID" ColumnName="BusID" />
+          <ScalarProperty Name="PickupPoint" ColumnName="PickupPoint" />
+          <ScalarProperty Name="PickupTime" ColumnName="PickupTime" />
+          <ScalarProperty Name="DropupPoint" ColumnName="DropupPoint" />
+          <ScalarProperty Name="DropupTime" ColumnName="DropupTime" />
+          <ScalarProperty Name="PickDropID" ColumnName="PickDropID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DateTables">
+      <EntityTypeMapping TypeName="Project_Admin_DbModel1.DateTable">
+        <MappingFragment StoreEntitySet="DateTable">
+          <ScalarProperty Name="BusID" ColumnName="BusID" />
+          <ScalarProperty Name="DepartureDate" ColumnName="DepartureDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

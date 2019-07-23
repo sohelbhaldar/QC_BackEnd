@@ -1,0 +1,160 @@
+E:\DAC_Project\Project\ClientSide\bin\roslyn\csc.exe
+E:\DAC_Project\Project\ClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DAC_Project\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DAC_Project\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DAC_Project\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DAC_Project\Project\ClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DAC_Project\Project\ClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DAC_Project\Project\ClientSide\bin\roslyn\System.Collections.Immutable.dll
+E:\DAC_Project\Project\ClientSide\bin\roslyn\System.Reflection.Metadata.dll
+E:\DAC_Project\Project\ClientSide\bin\roslyn\vbc.exe
+E:\DAC_Project\Project\ClientSide\bin\roslyn\VBCSCompiler.exe
+E:\DAC_Project\Project\ClientSide\bin\roslyn\VBCSCompiler.exe.config
+E:\DAC_Project\Project\ClientSide\bin\ClientSide.dll.config
+E:\DAC_Project\Project\ClientSide\bin\ClientSide.dll
+E:\DAC_Project\Project\ClientSide\bin\ClientSide.pdb
+E:\DAC_Project\Project\ClientSide\bin\Antlr3.Runtime.dll
+E:\DAC_Project\Project\ClientSide\bin\EntityFramework.dll
+E:\DAC_Project\Project\ClientSide\bin\EntityFramework.SqlServer.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.Google.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Web.Infrastructure.dll
+E:\DAC_Project\Project\ClientSide\bin\Newtonsoft.Json.dll
+E:\DAC_Project\Project\ClientSide\bin\Owin.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Net.Http.Formatting.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Helpers.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Http.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Http.Owin.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Http.WebHost.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Mvc.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Optimization.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Razor.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Web.WebPages.Deployment.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Web.WebPages.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Web.WebPages.Razor.dll
+E:\DAC_Project\Project\ClientSide\bin\WebGrease.dll
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DAC_Project\Project\ClientSide\bin\Newtonsoft.Json.xml
+E:\DAC_Project\Project\ClientSide\bin\System.Net.Http.Formatting.xml
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Helpers.xml
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Http.xml
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Http.WebHost.xml
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Mvc.xml
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Optimization.xml
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Razor.xml
+E:\DAC_Project\Project\ClientSide\bin\System.Web.WebPages.xml
+E:\DAC_Project\Project\ClientSide\bin\System.Web.WebPages.Deployment.xml
+E:\DAC_Project\Project\ClientSide\bin\System.Web.WebPages.Razor.xml
+E:\DAC_Project\Project\ClientSide\bin\Antlr3.Runtime.pdb
+E:\DAC_Project\Project\ClientSide\bin\EntityFramework.xml
+E:\DAC_Project\Project\ClientSide\bin\EntityFramework.SqlServer.xml
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.xml
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.xml
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.Google.xml
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DAC_Project\Project\ClientSide\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Http.Owin.xml
+E:\DAC_Project\Project\ClientSide\obj\Debug\ClientSide.dll
+E:\DAC_Project\Project\ClientSide\obj\Debug\ClientSide.pdb
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Cors.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Http.Cors.dll
+E:\DAC_Project\Project\ClientSide\bin\System.Web.Http.Cors.xml
+E:\DAC_Project\Project\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\roslyn\csc.exe
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\roslyn\System.Collections.Immutable.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\roslyn\System.Reflection.Metadata.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\roslyn\vbc.exe
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\roslyn\VBCSCompiler.exe
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\roslyn\VBCSCompiler.exe.config
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\ClientSide.dll.config
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\ClientSide.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\ClientSide.pdb
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Antlr3.Runtime.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\EntityFramework.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\EntityFramework.SqlServer.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.Google.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Web.Infrastructure.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Newtonsoft.Json.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Owin.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Net.Http.Formatting.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Cors.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Helpers.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Http.Cors.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Http.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Http.Owin.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Http.WebHost.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Mvc.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Optimization.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Razor.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.WebPages.Deployment.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.WebPages.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.WebPages.Razor.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\WebGrease.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Net.Http.Formatting.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Http.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Http.Cors.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Newtonsoft.Json.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Helpers.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Http.WebHost.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Mvc.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Optimization.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Razor.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.WebPages.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.WebPages.Deployment.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.WebPages.Razor.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Antlr3.Runtime.pdb
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\EntityFramework.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\EntityFramework.SqlServer.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.Google.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\bin\System.Web.Http.Owin.xml
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\obj\Debug\ClientSide.dll
+E:\DAC_Project\Project New\Project 2\Project\ClientSide\obj\Debug\ClientSide.pdb

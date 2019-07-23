@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Project_Admin_DbModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="PickUpDropUp_Table">
+    <Key>
+      <PropertyRef Name="PickDropID" />
+    </Key>
+    <Property Name="BusID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PickupPoint" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PickupTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="DropupPoint" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DropupTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="PickDropID" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DateTable">
+    <Key>
+      <PropertyRef Name="BusID" />
+      <PropertyRef Name="DepartureDate" />
+    </Key>
+    <Property Name="BusID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DepartureDate" Type="DateTime" Nullable="false" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="Project_Admin_DbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PickUpDropUp_Table" EntityType="Self.PickUpDropUp_Table" />
+    <EntitySet Name="DateTables" EntityType="Self.DateTable" />
+  </EntityContainer>
+</Schema>

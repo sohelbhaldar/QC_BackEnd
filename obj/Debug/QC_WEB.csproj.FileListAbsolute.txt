@@ -1,0 +1,242 @@
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\csc.exe
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\System.Collections.Immutable.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\vbc.exe
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\VBCSCompiler.exe
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\VBCSCompiler.exe.config
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\ClientSide.dll.config
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\ClientSide.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\ClientSide.pdb
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Antlr3.Runtime.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\EntityFramework.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\EntityFramework.SqlServer.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Facebook.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Google.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Twitter.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Web.Infrastructure.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Newtonsoft.Json.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Owin.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Net.Http.Formatting.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Cors.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Helpers.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.Cors.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.Owin.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.WebHost.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Mvc.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Optimization.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Razor.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.Deployment.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.Razor.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\WebGrease.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Net.Http.Formatting.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.Cors.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Newtonsoft.Json.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Helpers.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.WebHost.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Mvc.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Optimization.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Razor.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.Deployment.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.Razor.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Antlr3.Runtime.pdb
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\EntityFramework.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\EntityFramework.SqlServer.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Facebook.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Google.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Twitter.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.Owin.xml
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\obj\Debug\QC_WEB.csprojAssemblyReference.cache
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\obj\Debug\QC_WEB.csproj.CoreCompileInputs.cache
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\obj\Debug\QC_WEB.csproj.CopyComplete
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\obj\Debug\ClientSide.dll
+C:\SOHEL\QC WEB SHEET PROJECT\Project\ClientSide\obj\Debug\ClientSide.pdb
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\csc.exe
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\System.Collections.Immutable.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\vbc.exe
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\VBCSCompiler.exe
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\VBCSCompiler.exe.config
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\ClientSide.dll.config
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\ClientSide.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\ClientSide.pdb
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Antlr3.Runtime.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\EntityFramework.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\EntityFramework.SqlServer.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Facebook.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Google.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Twitter.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Web.Infrastructure.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Newtonsoft.Json.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Owin.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Net.Http.Formatting.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Cors.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Helpers.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.Cors.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.Owin.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.WebHost.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Mvc.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Optimization.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Razor.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.Deployment.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.Razor.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\WebGrease.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Net.Http.Formatting.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.Cors.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Newtonsoft.Json.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Helpers.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.WebHost.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Mvc.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Optimization.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Razor.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.Deployment.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.Razor.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Antlr3.Runtime.pdb
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\EntityFramework.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\EntityFramework.SqlServer.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Facebook.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Google.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Twitter.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.Owin.xml
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\obj\Debug\ClientSide.dll
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\obj\Debug\ClientSide.pdb
+C:\SOHEL\QC WEB part 2\QC WEB SHEET PROJECT\Project\ClientSide\obj\Debug\QC_WEB.csprojResolveAssemblyReference.cache
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\csc.exe
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\System.Collections.Immutable.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\vbc.exe
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\VBCSCompiler.exe
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\roslyn\VBCSCompiler.exe.config
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\ClientSide.dll.config
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\ClientSide.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\ClientSide.pdb
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Antlr3.Runtime.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\EntityFramework.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\EntityFramework.SqlServer.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Facebook.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Google.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Twitter.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Web.Infrastructure.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Newtonsoft.Json.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Owin.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Net.Http.Formatting.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Cors.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Helpers.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.Cors.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.Owin.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.WebHost.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Mvc.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Optimization.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Razor.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.Deployment.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.Razor.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\WebGrease.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Net.Http.Formatting.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.Cors.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Newtonsoft.Json.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Helpers.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.WebHost.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Mvc.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Optimization.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Razor.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.Deployment.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.WebPages.Razor.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Antlr3.Runtime.pdb
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\EntityFramework.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\EntityFramework.SqlServer.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Facebook.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Google.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.Twitter.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\bin\System.Web.Http.Owin.xml
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\obj\Debug\QC_WEB.csprojResolveAssemblyReference.cache
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\obj\Debug\ClientSide.dll
+C:\SOHEL\Merging Files\QC WEB SHEET PROJECT\Project\ClientSide\obj\Debug\ClientSide.pdb
